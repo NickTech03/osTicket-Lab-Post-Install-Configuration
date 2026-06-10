@@ -64,7 +64,7 @@ Now, when you look at the top of the page. You can see the **Admin Panel** highl
 
 This is the Admin Panel portal were it's used by Help Desk Agents and Support Specialists to view, manage, and resolve support tickets submitted by users.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Post-Install-Configuration/blob/595a49393d443c0894953f211aeece6c0be33eb3/4.png>
 
 
 
