@@ -14,13 +14,14 @@ This makes sure no requests are missed, allows urgent problems to be fixed first
 
 </p>
 
-This is the **SECOND** part of a three-part osTicket lab. In this section, we go step by step through the post-installation and start configuring osTicket to simulate a real-world IT help desk environment after completing the first part (osTicket: Prerequisites, Installation, and Validation). This project includes creating roles, departments, and teams to organize support staff and manage ticket access. It also involves adding agents and users, setting up SLA plans to track response times, and creating help topics to categorize incoming requests. These configurations help build a structured and efficient support system that reflects how many organizations manage IT support operations.
+This is the **SECOND** part of a four-part osTicket lab. In this section, we go step by step through the post-installation and start configuring osTicket to simulate a real-world IT help desk environment after completing the first part (osTicket: Prerequisites, Installation, and Validation). This project includes creating roles, departments, and teams to organize support staff and manage ticket access. It also involves adding agents and users, setting up SLA plans to track response times, and creating help topics to categorize incoming requests. These configurations help build a structured and efficient support system that reflects how many organizations manage IT support operations.
 
 </p>
 
 - [osTicket: Prerequisites, Installation, and Validation](https://github.com/NickTech03/osTicket-Lab-Prerequisites-Installation-and-Validation)
 - **osTicket: Post-Install Configuration**
 - [osTicket: Ticket Lifecycle Workflow (Examples)](https://github.com/NickTech03/osTicket-Lab-Ticket-Lifecycle-Workflow-Examples)
+- [osTicket: Using ChatGPT to Simulate Support Tickets](https://github.com/NickTech03/osTicket-Lab-Using-ChatGPT-to-Simulate-Support-Tickets) 
 
 <h2>Environments and Technologies Used</h2>
 
