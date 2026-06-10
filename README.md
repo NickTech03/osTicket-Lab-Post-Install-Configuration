@@ -60,6 +60,10 @@ Once logged into the portal the dashboard will look like this for the **Agent Pa
 
 Now, when you look at the top of the page. You can see the **Admin Panel** highlighted, click that.
 
+<img src=https://github.com/NickTech03/osTicket-Lab-Post-Install-Configuration/blob/4d47e3b8f4ec1d3aec2e7c658561cde60260a40d/3.png>
+
+This is the Admin Panel portal were it's used by Help Desk Agents and Support Specialists to view, manage, and resolve support tickets submitted by users.
+
 <img src=>
 
 
