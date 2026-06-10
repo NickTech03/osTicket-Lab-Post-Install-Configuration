@@ -41,5 +41,20 @@ This is the **SECOND** part of a three-part osTicket lab. In this section, we go
 
 ---
 
-## Step 1 - 
+## Step 1 - Acknowledge Admin Panel vs Agent Panel
+
+First, we'll start by logging into the the osTicket web portal for admin / staff control panel using the link below.
+
+ - http://localhost/osTicket/scp/login.php
+
+You can login with the username and password that was made in the previous lab.
+
+- Username: `adminuser`
+- Password: `Password1`
+
+<img src=>
+
+
+
+
 
