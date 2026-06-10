@@ -66,6 +66,13 @@ This is the Admin Panel portal were it's used by Help Desk Agents and Support Sp
 
 <img src=https://github.com/NickTech03/osTicket-Lab-Post-Install-Configuration/blob/595a49393d443c0894953f211aeece6c0be33eb3/4.png>
 
+**We will going through these panels frequently during this lab and in Part 3 as well**
+
+## Step 2 - Configure Roles
+
+
+
+
 
 
 
