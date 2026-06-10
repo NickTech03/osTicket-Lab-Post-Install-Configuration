@@ -56,8 +56,11 @@ You can login with the username and password that was made in the previous lab.
 
 Once logged into the portal the dashboard will look like this for the **Agent Panel**. This is were you configure settings on the back-end for osTicket.
 
-<img src=>
+<img src=https://github.com/NickTech03/osTicket-Lab-Post-Install-Configuration/blob/f2e60141b672ab3c1b5e322888f88132fac7f5f3/2.png>
 
+Now, when you look at the top of the page. You can see the **Admin Panel** highlighted, click that.
+
+<img src=>
 
 
 
